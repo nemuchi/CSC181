@@ -1,0 +1,6 @@
+clone repo: git clone git@github.com:renllanes/CSC181.git
+add a file: git add <filename>
+commit changes: git commit -m "commit message"
+push changes: git push origin <branch>
+create new branch: git checkout -b <new_branch_name>
+update branch: git pull origin
